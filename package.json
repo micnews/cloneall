@@ -1,0 +1,18 @@
+{
+  "name": "cloneall",
+  "version": "0.0.1",
+  "description": "clone all organisation repos from github and update existing",
+  "dependencies": {
+    "async": "^0.9.0",
+    "chalk": "^0.5.1",
+    "concat-stream": "^1.4.6",
+    "home-dir": "^0.2.0",
+    "hyperquest": "^0.3.0",
+    "minimist": "^1.1.0"
+  },
+  "author": "mic.com",
+  "license": "MIT",
+  "bin": {
+    "cloneall": "index.js"
+  }
+}
