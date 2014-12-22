@@ -2,6 +2,8 @@
   "name": "cloneall",
   "version": "0.0.1",
   "description": "clone all organisation repos from github and update existing",
+  "repository": "git@github.com:micnews/cloneall.git",
+  "homepage": "https://github.com/micnews/cloneall",
   "dependencies": {
     "async": "^0.9.0",
     "chalk": "^0.5.1",
