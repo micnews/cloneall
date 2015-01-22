@@ -15,6 +15,6 @@
   "author": "mic.com",
   "license": "MIT",
   "bin": {
-    "cloneall": "index.js"
+    "cloneall": "bin/cli.js"
   }
 }
