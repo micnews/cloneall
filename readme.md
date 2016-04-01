@@ -43,7 +43,7 @@ In order to clone repositories you need a token. The following command will save
 $ cloneall --save-token 7957f62fb14da0c81e5b900456bdd9caa840e09a
 ```
 
-See [this page](https://github.com/settings/applications#personal-access-tokens) for more information on how to create a token.
+Generate a new token at [this page](https://github.com/settings/tokens) with the desired `repo` access (only public or all repos with private access included).
 
 ## License
 
